@@ -1,0 +1,16 @@
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+/** body **/
+body {
+  width: 5em;
+  margin: 1em;
+  background: snow;
+  border: solid;
+  border-width: 1px;
+  border-color: black;
+  padding: 2em;
+}
